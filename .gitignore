@@ -1,2 +1,8 @@
-data/
+data/2007-2020.zip
+data/cleaned_loan_data_pickle.pkl
+data/loan_data_pickle.pkl
+data/prepped_data.pkl
+data/selected_loan_data_pickle.pkl
+data/loan_data.csv
+data/loan_data.csv.gz
 LoanDefaultProbability_ref.ipynb
