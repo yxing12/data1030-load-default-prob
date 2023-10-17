@@ -1,4 +1,3 @@
-data/2007-2020.zip
 data/cleaned_loan_data_pickle.pkl
 data/loan_data_pickle.pkl
 data/prepped_data.pkl
@@ -6,3 +5,22 @@ data/selected_loan_data_pickle.pkl
 data/loan_data.csv
 data/loan_data.csv.xz
 LoanDefaultProbability_ref.ipynb
+data/raw data in multiple files/file_20.csv
+data/raw data in multiple files/file_19.csv
+data/raw data in multiple files/file_18.csv
+data/raw data in multiple files/file_17.csv
+data/raw data in multiple files/file_16.csv
+data/raw data in multiple files/file_15.csv
+data/raw data in multiple files/file_14.csv
+data/raw data in multiple files/file_13.csv
+data/raw data in multiple files/file_12.csv
+data/raw data in multiple files/file_11.csv
+data/raw data in multiple files/file_10.csv
+data/raw data in multiple files/file_9.csv
+data/raw data in multiple files/file_8.csv
+data/raw data in multiple files/file_7.csv
+data/raw data in multiple files/file_6.csv
+data/raw data in multiple files/file_5.csv
+data/raw data in multiple files/file_4.csv
+data/raw data in multiple files/file_3.csv
+data/raw data in multiple files/file_2.csv
