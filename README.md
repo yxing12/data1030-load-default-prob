@@ -1,4 +1,4 @@
-# Data1030 Final Project - Loan Default Predictor
+# Data1030 Final Project - Loan Default Probability Predictor
 
 Final Project for DATA1030 at Brown University.
 
