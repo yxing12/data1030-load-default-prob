@@ -4,8 +4,15 @@ data/prepped_data.pkl
 data/selected_loan_data_pickle.pkl
 data/loan_data.csv
 data/loan_data.csv.xz
+
+.ipynb_checkpoints
+
 LoanDefaultProbability_ref.ipynb
 loan_default_prob copy 2.ipynb
 loan_default_prob copy.ipynb
+
+loan_default_prob_10w.ipynb
 data/model_selection_10w
-data/model_selection_20w
+
+results/model_selection_20w/KNN_objects.pkl
+results/model_selection_20w/RF_objects.pkl
