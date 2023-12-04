@@ -11,3 +11,12 @@ The goal of this project is to build a machine-learning model to predict the pro
 Due to limit in the github for the file size, the compiled full dataset cannot be uploaded, but can be accessed via the above link. Alternatively, 20 splited data files of the data has been uploaded to the data folder under 'raw data in multiple files'. All the subsequent results in the jupyter notebook are performed using the actual data (~1.1GB). You should load the full data in case you want to reproduce the results.
 
 You can also find description of each features in data/feature_description.xlsx in this repo.
+
+## Prerequisites
+You can recreate the python environment using the `data1030.yml` conda environment file by running these two commands in the terminal:
+
+`conda env create -n loan_pred -f data1030.yml`
+
+`conda activate loan_pred`
+
+You should be able to run `src/loan_default_prob_20w.ipynb` now.
