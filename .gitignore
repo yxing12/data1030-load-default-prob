@@ -12,7 +12,7 @@ loan_default_prob copy 2.ipynb
 loan_default_prob copy.ipynb
 
 loan_default_prob_10w.ipynb
-data/model_selection_10w
+results/model_selection_10w
 
 results/model_selection_20w/KNN_objects.pkl
 results/model_selection_20w/RF_objects.pkl
