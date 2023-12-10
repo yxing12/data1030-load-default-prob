@@ -13,13 +13,13 @@ Due to GitHub's file size limitations, the full compiled dataset is not uploaded
 
 1. Directly from the provided Kaggle link.
 2. Via a [Google Drive link](https://drive.google.com/file/d/1QhtFHRheKtgRZ7khOfqPVkOtCToWJE_N/view?usp=drive_link).
-3. For convenience, the dataset has also been split into 20 smaller CSV files, which are available in the 'raw data in multiple files' folder under 'data' in this GitHub repository.
+3. For convenience, the dataset has also been split into 20 smaller CSV files, which are available in `data/raw data in multiple files` folder in this GitHub repository.
 
 **Working with the Data**
 To reproduce the results shown in the Jupyter notebook, it is recommended to use the full dataset. For the fine-tuning of hyperparameters in the machine learning models, a subset of 200,000 data points from the full dataset was utilized to save on computing resources.
 
 **Additional Resources**
-In this repository, you will also find a file 'data/feature_description.xlsx', which provides a detailed description of each feature in the dataset.
+In this repository, you will also find a file `data/feature_description.xlsx`, which provides a detailed description of each feature in the dataset.
 
 **Oversized Files and Intermediate Data**
 Some files that are too large for GitHub, including the original full data CSV file, a cleaned data pickle file, and four machine learning model pickle files saved from cross-validation, are available at the [Google Drive link](https://drive.google.com/drive/folders/1FngPTxSwXr94BdEPl0Mf_S_X9xuLAhHF?usp=drive_link).
