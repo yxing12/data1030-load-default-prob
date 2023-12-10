@@ -1,8 +1,8 @@
 # Loan Default Probability Predictor
 
-Final Project for DATA1030 at Brown University.
+Loan default occurs when a borrower fails to repay a loan according to the terms agreed upon. This is a critical financial concern that not only adversely affects the borrower's credit rating, but also imposes significant consequences on the lending financial institution, including revenue loss, increased operational costs, and potential reputation damage. 
 
-The goal of this project is to build a machine-learning model to predict the probability that a loan will default.
+This project aims to employ machine learning techniques to predict loan defaults based on an analysis of the loan’s specifications and the borrower's financials. The model will benefit lenders by providing a data-driven tool to optimize their risk-reward balance, and borrowers by enabling proactive loan management and better loan terms negotiation. Furthermore, by reducing the incidence of unexpected loan defaults, this model contributes to a more stable economic environment and overall economic health.
 
 ## Data Source
 
