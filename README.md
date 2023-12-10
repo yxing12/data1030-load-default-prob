@@ -12,6 +12,8 @@ Due to limit in the github for the file size, the compiled full dataset cannot b
 
 You can also find description of each features in data/feature_description.xlsx in this repo.
 
+Some oversized data files and intermediate pickle files, which cannot be uploaded to Git but are displayed in the Jupyter notebook, can be found [here](https://drive.google.com/drive/folders/1FngPTxSwXr94BdEPl0Mf_S_X9xuLAhHF?usp=sharing).
+
 ## Prerequisites
 You can recreate the python environment using the `data1030.yml` conda environment file by running these two commands in the terminal:
 
